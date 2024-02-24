@@ -136,7 +136,7 @@ print("List of values:", values)
 #       9951.5
 ######################################################################
 
-# Function to find the minimum value in the list
+# Function to find the minimum value 
 def minimum_value(values):
     minimum = values[0]
     for value in values[1:]:
@@ -144,7 +144,7 @@ def minimum_value(values):
             minimum = value
     return minimum
 
-# Function to find the maximum value in the list
+# Function to find the maximum value
 def maximum_value(values):
     maximum = values[0]
     for value in values[1:]:
@@ -152,14 +152,14 @@ def maximum_value(values):
             maximum = value
     return maximum
 
-# Function to find the average of values in the list
+# Function to find the average of values
 def average_value(values):
     total = 0
     for value in values:
         total += value
     return total / len(values)
 
-# Depending on the mode, call the appropriate function and print the result
+# Conditional statements
 if mode == 'min':
     print("Minimum Value:", minimum_value(values))
 elif mode == 'max':
