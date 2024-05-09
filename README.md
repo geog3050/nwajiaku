@@ -5,7 +5,7 @@ geog3050/nwajiaku - Loretta Nwajiaku
 
 ### Background
 
-I am Chiamaka Nwajiaku, a Data Scientist with a background in Computer Science. I graduated from the University of Lagos with a Bachelor's Degree in Geography and i am currently enrolled in a graduate degree in Geography. 
+I am Chiamaka Nwajiaku, I graduated from the University of Lagos with a Bachelor's Degree in Geography and i am currently enrolled in a graduate degree in Geography. 
 
 ### Interests
 
