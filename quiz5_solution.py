@@ -12,7 +12,7 @@
 ############################################################################################################ 
 
 def hawkid():
-    return(["Caglar Koylu", "ckoylu"])
+    return(["Loretta Nwajiaku", "nwajiaku"])
 
 def createBufferAirport(fcPoint, featureFieldName, enpFieldName, workspace):
     # Import system modules
