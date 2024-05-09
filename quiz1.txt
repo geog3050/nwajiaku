@@ -1,0 +1,20 @@
+#Briefly explain four distinct scenarios (differing values of i, j, and k) in which this code would fail to give an accurate and meaningful result. 
+
+#i = 3
+#j = 5
+#k = 2
+#if i > j - k: 
+    #print('i is larger than the difference between j and k')
+#elif j > i + k: 
+   # print('j is larger than the sum of i and k')
+#else: 
+    #print('k is either the largest or smallest')
+
+Your Answer:
+1.  when i =-3  j =-1 and k= 1 i.e , the results wil not be accurate. i is not greater than j-k,  j is not larger than i +k and k is not the smallest or largest
+
+2. if i =-2  and j=5 and k = -9. i is  not greater than j- k because i is -5 is not greater than -5-2 which is -7. it cant print the if statement, k is not the largest k or the ellif or else statement
+
+3. if all the variables are equal, i=5, j=5=k=5, not of the conditions will be met
+
+4. if i= 3, j= 7 and k =4 the conditons will not be met
