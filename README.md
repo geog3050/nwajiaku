@@ -1,5 +1,8 @@
 # nwajiaku
 geog3050/nwajiaku - Loretta Nwajiaku
+### Description of repository
+
+This repository contains all codes created for the geospatial programming course. It also includes a final project on modelling migration patterns
 
 ## About the Author
 
