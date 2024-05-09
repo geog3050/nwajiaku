@@ -2,13 +2,13 @@
 geog3050/nwajiaku - Loretta Nwajiaku
 ### Description of repository
 
-This repository contains all codes created for the geospatial programming course. It also includes a final project on modelling migration patterns
+This repository contains all codes created for the geospatial programming course. It also includes a final project on modelling migration. The files used for this project is contained in the project folder which includesA geojson file of the contiguous United Sates, a flow folder containing migration flow data, a stamename.csv file which contains names of the geometry and a notebook called Migration_data.ipynb containing the code for processing. 
 
 ## About the Author
 
 ### Background
 
-I am Chiamaka Nwajiaku, I graduated from the University of Lagos with a Bachelor's Degree in Geography and i am currently enrolled in a graduate degree in Geography. 
+I am Loretta Nwajiaku, I graduated from the University of Lagos with a Bachelor's Degree in Geography and I am currently enrolled in a graduate degree in Geography. 
 
 ### Interests
 
