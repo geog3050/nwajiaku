@@ -83,10 +83,10 @@ for i in range(count):
     values.append(value)
 
 # Print result
-print("Mode:", mode)
-print("Count:", count)
-print("Number of values:", len(values))
-print("List of values:", values)
+print(mode)
+print(count)
+print(len(values))
+print(values)
 
 
 
@@ -161,11 +161,11 @@ def average_value(values):
 
 # Conditional statements
 if mode == 'min':
-    print("Minimum Value:", minimum_value(values))
+    print(minimum_value(values))
 elif mode == 'max':
-    print("Maximum Value:", maximum_value(values))
+    print(maximum_value(values))
 elif mode == 'avg':
-    print("Average Value:", average_value(values))
+    print(average_value(values))
 
 
 
