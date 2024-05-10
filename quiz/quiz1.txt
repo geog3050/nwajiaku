@@ -11,10 +11,10 @@
     #print('k is either the largest or smallest')
 
 Your Answer:
-1.  when i =-3  j =-1 and k= 1 i.e , the results wil not be accurate. i is not greater than j-k,  j is not larger than i +k and k is not the smallest or largest
+1.  when i =2  j =4 and k= 2 i.e , the results wil not be accurate. i is not greater than j-k,  j is not larger than i +k and k is either the largest or the smallest is misleading
 
 
-2. if i =-2  and j=5 and k = -9. i is  not greater than j- k because i is -5 is not greater than -5-2 which is -7. it cant print the if statement, k is not the largest k or the ellif or else statement
+2. if i =1  and j=2 and k = 2. 1  is  not greater than j- k (0), 2 is not greater than 3. 2 is not the largest or smallest
 
 3. if all the variables are equal, i=5, j=5=k=5, not of the conditions will be met
 
